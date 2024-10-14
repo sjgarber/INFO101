@@ -1,1 +1,1 @@
-My name is Samantha. # INFO101
+My name is Samantha. I enjoy playing soccer and am in pharmacy school.
